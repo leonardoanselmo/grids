@@ -19,7 +19,7 @@ a {
     text-transform: uppercase;
 }
 
-.header {    
+.c-header {    
     max-width: 940px;
     margin: 0px auto;
     padding: 40px 10px;    
@@ -28,12 +28,12 @@ a {
     align-items: center;
 }
 
-.menu {
+.c-menu {
     display: flex;
     gap: 30px;
 }
 
-.menu a {
+.c-menu a {
     padding: 8px 17px;    
     background-color: #b1629f;
     color: #000;
@@ -42,6 +42,6 @@ a {
     font-weight: 400;
 }
 
-.menu a:hover {
+.c-menu a:hover {
     background-color: #bc7aac;
 }
